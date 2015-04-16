@@ -1,0 +1,13 @@
+@media print {
+  .back,
+  #table_of_contents,
+  footer > p,
+  .next_step,
+  nav.top { display: none; }
+
+  footer p:last-child { display: block; }
+
+  .message {
+    page-break-inside: avoid;
+  }
+}
