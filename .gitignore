@@ -3,6 +3,7 @@
 .env
 .idea
 .ruby-version
+.ruby-gemset
 .rvmrc
 .sass-cache
 Thumbs.db
